@@ -47,3 +47,33 @@ Donald
 -catching up with lecture
 -starting menus on project
 -still learning material
+
+8/3/22
+
+Nick
+-no changes from yesterday
+-not having any difficulties
+
+
+
+Jeffery
+
+
+
+
+Chee
+-created the menu router
+database is working
+-problem with Git hub
+
+
+Shobhia
+no changes from yesterday 
+starting up with the project
+
+
+
+Donald
+no changes from yesterday
+no struggeles
+
