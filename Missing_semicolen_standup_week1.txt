@@ -24,3 +24,102 @@ Nick
 -most work UpToDate with lecture
 -following lectures
 -time management
+
+8/2/22
+
+Nick
+-catching up with videos/lecture
+-struggled with AWS until midnight
+
+Jeffrey
+-exctied about databases today
+-struggling with internet connectivity
+
+Chee
+-catching up with lecture
+-no struggles as of right now
+
+Shobhita
+-catching up with lecture/recordings
+-struggling with project
+
+Donald
+-catching up with lecture
+-starting menus on project
+-still learning material
+
+8/3/22
+
+Nick
+-no changes from yesterday
+-not having any difficulties
+
+
+
+Jeffery
+
+
+
+
+Chee
+-created the menu router
+database is working
+-problem with Git hub
+
+
+Shobhia
+no changes from yesterday 
+starting up with the project
+
+
+
+Donald
+no changes from yesterday
+no struggeles
+
+
+8/4/2022
+
+Nickolas Earles
+- Bug fixes
+- No roadblocks
+
+Donald Churchwell
+- Enjoying the lecture on databases
+- Struggling with construction of super for Menus
+
+Chee Xiong
+- Good progress on project, starting on database soon
+- No roadblocks
+
+Jeffrey Jourdan
+- Good progress, also waiting for more infor on databases
+- No roadblocks
+
+Shobhita pandey
+- Working on project
+- Struggling with time management
+
+
+8/5/2022
+
+Nickolas Earles
+-up to date with lecture.
+-implementing all the stuff that was covered
+-no road blocks yet.
+
+Donald Churchwell
+-going pretty well
+-a few road block with memdao, database, and arraylist
+
+Chee Xiong
+-progressing on my project
+-no roadblocks
+
+Jeffrey Jourdan
+-Same place, everything is progressing smoothly 
+-no Road blocks
+
+Shobhita pandey
+-not much change just progressing
+-lots of roadblocks such as understanding and catching up with the pace. 
