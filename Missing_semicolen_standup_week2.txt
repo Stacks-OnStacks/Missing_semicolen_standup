@@ -24,3 +24,25 @@ Donald
 -base made
 -deposit and withdrawal
 -routing
+
+08/9/2022
+
+Nick
+-Bug fixes and documentation
+-no roadblocks
+
+Donald
+-Nearing completion
+-difficulty with some errors to finish
+
+Shobhita
+-Connecting project to database
+-Database roadblock
+
+Chee
+-good progress on project
+-some issues with routing
+
+Jeffrey
+-refactoring to implement database
+-no roadblocks
