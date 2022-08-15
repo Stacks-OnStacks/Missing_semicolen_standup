@@ -24,3 +24,42 @@ Donald
 -base made
 -deposit and withdrawal
 -routing
+
+08/9/2022
+
+Nick
+-Bug fixes and documentation
+-no roadblocks
+
+Donald
+-Nearing completion
+-difficulty with some errors to finish
+
+Shobhita
+-Connecting project to database
+-Database roadblock
+
+Chee
+-good progress on project
+-some issues with routing
+
+Jeffrey
+-refactoring to implement database
+-no roadblocks
+
+08/10/2022
+
+Nick
+-Got most of everything that needed to be done but feel disappointed not being able to do more because of time. 
+
+Donald
+-Same boat as Shobhita, feel impressed with what I came up with. Its a learning curve. Feel happy that for someone 
+
+Shobhita
+-Have to many things in p0. Unable to connect with maven. Need to reach out to charles. P0 did not believe in self in creating anything. Feels proud.
+
+Chee
+-Glad to have been able to learn more into depths with Java. Glad to have been able to work with database. Feel disappointed that I was not able to finish my project.  
+
+Jeffrey
+-Disappointed. Need to find time to ask for help. Forgot about formatting after trying to make things neater. Will try and grow from it. 
