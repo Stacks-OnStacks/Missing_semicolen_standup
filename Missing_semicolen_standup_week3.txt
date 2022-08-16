@@ -23,3 +23,26 @@ Chee Xiong
 Kim Dang
 - Bigger project, work with same time zone
 - Bigger project
+
+8/16/2022
+
+Nickolas Earles
+-Started skeleton the project, figuring out hibernate
+-No struggles yet.
+
+Khalis Bell
+- theme, list items, looked over hibernate. 
+- struggling with understand and implementing things.
+
+Jeffery Jourdan
+-Forgot to discuss what done is, reviewed hibernate,  
+- no struggles yet.
+
+Chee Xiong
+- Similar to Kim. Focues on hibernate. 
+-Understanding hibernate
+
+Kim Dang
+-Get to discuss what done means. Done has documentation, has  unit testing, some form of logging. made git repo.Skimmed through hibernate.
+- no struggles yet
+
