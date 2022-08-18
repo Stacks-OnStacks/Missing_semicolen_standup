@@ -46,3 +46,34 @@ Kim Dang
 -Get to discuss what done means. Done has documentation, has  unit testing, some form of logging. made git repo.Skimmed through hibernate.
 - no struggles yet
 
+8/18/2022
+Where are you at?
+What are you struggling with?
+What will you do today?
+
+Nickolas Earles
+-Currently implementing userPayments
+-Struggled with many to one
+-Will continue working on userPayments
+
+Khalis Bell
+-Working on understanding servlets. Was working on the Dish.
+-Internet connection and renovation kept interfering with progress.
+-User stuff based on the soft deadline in discord
+
+Jeffery Jourdan
+-Servlet Context, test hibernate connection
+-Realized that he had to use Postman to test
+-CICD, flushing out servlets, start userPayment?
+
+Chee Xiong
+-tested hibernate, used it to create tables, User stuff
+-N/A
+-UserServlet
+
+Kim Dang
+-what Chee said
+-documentation and unit tests, we did not get to it
+-UserServlet, get started with UserPayment
+
+
