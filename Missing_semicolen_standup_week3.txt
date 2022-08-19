@@ -76,4 +76,24 @@ Kim Dang
 -documentation and unit tests, we did not get to it
 -UserServlet, get started with UserPayment
 
+08/19/2022
 
+Nickolas Earles
+-Completed implementation of UserPayments Dao, will start commenting and testing
+-Struggled with id generation for hibernate
+
+Kim Dang
+-Completion of User servlet, begun work on user payments. Fixed connection to postman and registered a user, Working on Dishes
+-Postman wasn't working correctly(Fixed!)
+
+Chee Xiong
+-Same as Kim! Wants to finish userpayments
+-Same as Kim
+
+Khalis Bell
+-Making progress on Order_Details, Finish projected work.
+-Time management
+
+Jeffrey Jourdan
+-Finished User DTOs and services, hibernate persists, postman works
+-Merge Conflicts everywhere!!! It was fun.
