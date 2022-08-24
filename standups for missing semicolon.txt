@@ -81,3 +81,31 @@ Review and help implement spring
 Apologize to nick and charles
 
 asking for help
+
+
+
+
+8/24/22
+
+Nickolas Earles
+-Helping khalis catch up with what we need to get done
+- hopefully finish dishes and start on orders
+- no struggles so far
+Khalis Bell
+-Dish services 3/4 finished. 
+-need to work on DishDao and orders and ordersdetails. Need to figure out how to present it and implement a few things
+-struggles with covid, besides that everything else shouldn't be that bad.
+Jeffrey Jourdan
+-Almost finished with the programs. Need to work on order and order services. Need to work on orderDetails
+-Seeing if the other option are a
+- no struggles
+Chee Xiong
+-Finished Orders 
+-help with orderDetails, work on testing
+-no struggles so far.
+Kim Dang
+-Kim's Birthday! Happy Birthday!
+Finished orders and fixed some ideas.Still need to work on OrderDetails servlet
+-looking to work on unit testing
+-no struggles so far.
+
