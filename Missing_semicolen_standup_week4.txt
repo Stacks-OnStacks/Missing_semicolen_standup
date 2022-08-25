@@ -1,0 +1,137 @@
+daily standups - 8/22/22
+
+Jeffery Jourdan
+
+completed:
+caught up to deadlines
+working on orders
+
+struggles:
+n/a
+
+to do next:
+Dish service and servlets
+
+Unit testing and mockido
+
+Finish user stories
+
+
+
+Nickolas Earles
+
+completed:
+User payments
+
+struggles:
+n/a
+
+to do next:
+user dish and orders
+
+
+Kim Dang
+
+completed:
+Tested using payments and connecting to a user
+
+Dishes connected
+
+
+struggles:
+A lot to implement
+
+to do next:
+Implementing orders
+
+
+
+Chee Xiong
+
+completed:
+User payments
+
+Implemented dish
+
+
+struggles:
+Questions about query need answering
+
+to do next:
+Test dish 
+
+Implement orders
+
+Khalis Bell
+what's complete:
+n/a
+
+struggles:
+Distractions impeding work
+
+Managing to make communicaion with partner
+
+Failing to focus on work
+
+to do next
+Improving and implementing the overdue and required servlets
+
+Review and help implement spring
+
+Apologize to nick and charles
+
+asking for help
+
+
+
+
+8/24/22
+
+Nickolas Earles
+-Helping khalis catch up with what we need to get done
+- hopefully finish dishes and start on orders
+- no struggles so far
+Khalis Bell
+-Dish services 3/4 finished. 
+-need to work on DishDao and orders and ordersdetails. Need to figure out how to present it and implement a few things
+-struggles with covid, besides that everything else shouldn't be that bad.
+Jeffrey Jourdan
+-Almost finished with the programs. Need to work on order and order services. Need to work on orderDetails
+-Seeing if the other option are a
+- no struggles
+Chee Xiong
+-Finished Orders 
+-help with orderDetails, work on testing
+-no struggles so far.
+Kim Dang
+-Kim's Birthday! Happy Birthday!
+Finished orders and fixed some ideas.Still need to work on OrderDetails servlet
+-looking to work on unit testing
+-no struggles so far.
+
+8/25/2022
+
+Jeffery Jordan
+- Near completion
+- working on patment
+- Geting payment to work
+
+Kim Dang
+- nearing compleation
+- orderdetails/presentation
+- postman order details
+
+Chee Xiong
+- nearing compleation
+- orderdetails/presentation
+- postman order details
+
+Nick Earles
+- base code compleat
+- checks for all code parts
+- time
+
+Khalis Bell
+- base code compleat
+- checks for all code parts
+- time
