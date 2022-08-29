@@ -1,0 +1,25 @@
+Nickolas Earles:
+	- Had time problems due to communication
+	- Lots of communication issues
+	- Comment more code
+	- More unit tests
+	
+Paul Mork:
+	- Work on being more productive
+	- Less procrastination
+	- More unit testing
+	
+Jeffrey Jourdan:
+	- Ask for help sooner
+	- Being more proactive on self help
+	- Increased self standards
+	
+Thea Brockway:
+	- More personal goals
+	- Learn more about git
+	
+Rei Cronje:
+	- More communication
+	- Unit tests earlier
+	- Going slower and ensuring quality
+
