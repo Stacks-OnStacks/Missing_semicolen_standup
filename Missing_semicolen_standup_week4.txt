@@ -1,6 +1,6 @@
 daily standups - 8/22/22
 
-Jeffery Jourdan
+jeffery jourdan
 
 completed:
 caught up to deadlines
@@ -18,7 +18,7 @@ Finish user stories
 
 
 
-Nickolas Earles
+nickolas earles
 
 completed:
 User payments
@@ -44,9 +44,7 @@ A lot to implement
 to do next:
 Implementing orders
 
-
-
-Chee Xiong
+chee ciong
 
 completed:
 User payments
@@ -135,3 +133,22 @@ Khalis Bell
 - base code compleat
 - checks for all code parts
 - time
+
+
+8/26/2022
+
+Nickolas Earles
+-MVP
+-N/A
+-ReadME, Presenting
+Jeffrey Jourdan
+-Near Completion
+-Trouble with Order Details
+-Presentation and ReadMe, OrderDetails
+Chee Xiong
+-Demoable state, Presentation ready
+-Unit Testing
+-Practice Presenting
+Kim Dang
+-Same as Chee
++Work on Portfoliio
