@@ -1,0 +1,21 @@
+August 31st 2022:
+
+Nickolas:
+	- Comments Model created, all other comment classes defined
+	- Comment Serivce
+	- No issues
+	
+Jeffrey:
+	- Worked on followers model and started followers service
+	- Finish followers service
+	- Issues with trying to understand how HQL queries for followers would work
+	
+Paul:
+	- Worked on user model, user repository, and user controller
+	- Finish everything for users, starting with service
+	- No issues
+	
+Rei:
+	- Created app skeleton, created auth servlet, and helped merge
+	- Unit tests, finish auth servlet, and help merge
+	- No issues
