@@ -1,0 +1,24 @@
+Paul:
+	Worked on: Studying for QC, added checks for email available
+	Working on: Register page
+	Struggles: None
+
+Rei:
+	Worked on: Finishing comment and post likes, testing
+	Working on: Profile
+	Struggles: None
+	
+Nickolas:
+	Worked on: Looking into javascript, studying for qc
+	Working on: Feed page and basic layout
+	Struggles: None
+	
+Thea:
+	Worked on: Studying for QC
+	Working on: working on post page
+	Struggles: None
+	
+Jeffrey:
+	Worked on: QC studying, finishing follower testing
+	Working on: Login
+	Issues: Forgot to refresh maven for additional dependencies and yaml file update

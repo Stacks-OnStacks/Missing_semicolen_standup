@@ -19,3 +19,32 @@ Rei:
 	- Created app skeleton, created auth servlet, and helped merge
 	- Unit tests, finish auth servlet, and help merge
 	- No issues
+
+
+
+September 1st 2022:
+
+Nickolas:
+	- Finished Comments Service and Repository
+	- Work on Comments Controller
+	- No issues
+	
+Jeffrey:
+	- Worked on Follower Service and Follower Repository
+	- Working on Follower Controllers
+	- No issues
+	
+Paul:
+	- Finished User Service/Repository, started User Controller
+	- Finish User Controller and helping with other Controllers
+	- No issues
+	
+Rei:
+	- Finished Unit Tests for Users & Followers, Finished AuthController, helped with merge conflicts, fixed minor bugs
+	- Help everyone finish Service classes
+	- No issues
+
+Thea:
+        - Worked on Post repository and Post services
+        - Finish cleaning up the controller and dtos
+        - No issues
