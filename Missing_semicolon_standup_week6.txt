@@ -1,3 +1,5 @@
+September 6th:
+
 Paul:
 	Worked on: Studying for QC, added checks for email available
 	Working on: Register page
@@ -22,3 +24,30 @@ Jeffrey:
 	Worked on: QC studying, finishing follower testing
 	Working on: Login
 	Issues: Forgot to refresh maven for additional dependencies and yaml file update
+	
+September 7th
+
+Paul:
+	Worked on: Setup skeleton for website including react setup
+	Working on: Registration page
+	Struggles: None
+
+Rei:
+	Worked on: Setup Github Repo
+	Working on: Working on profile page & setup CI/CD
+	Struggles: None
+	
+Nickolas:
+	Worked on: Worked on base style sheet, finished quizes/loom/etc.
+	Working on: Working on feed and implement style sheet
+	Struggles: None
+	
+Thea:
+	Worked on: Working on basic frame of posting page
+	Working on: continue working on post page
+	Struggles: None
+	
+Jeffrey:
+	Worked on: Reviewing spring concepts and working on login page
+	Working on: continue working on login page
+	Issues: None
