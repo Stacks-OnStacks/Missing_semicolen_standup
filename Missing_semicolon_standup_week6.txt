@@ -51,3 +51,30 @@ Jeffrey:
 	Worked on: Reviewing spring concepts and working on login page
 	Working on: continue working on login page
 	Issues: None
+
+September 8th:
+
+Paul:
+	- finished registration ui and cross origin
+	- will work on Followers UI
+	- Struggled with getting cross origin to work
+
+Nickolas:
+	- finished feed
+	- bug testing feed
+	- none
+
+Thea:
+	- started working on post component
+	- finish post component debugging
+	- forgetting to use react js
+
+Jeffrey:
+	- progress with login page
+	- working on finising login page
+	- struggling with internet outages
+
+Rei:
+	- Finished @CrossOrigins in API, Almost done with Profile Page
+	- Finishing Profile Page
+	- Struggling with nothing
