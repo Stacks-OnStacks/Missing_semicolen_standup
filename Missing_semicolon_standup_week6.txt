@@ -78,3 +78,30 @@ Rei:
 	- Finished @CrossOrigins in API, Almost done with Profile Page
 	- Finishing Profile Page
 	- Struggling with nothing
+
+September 9th 2022
+
+Nickolas:
+	- Finished Feed
+	- Complete Post View
+	- Struggles: Trying to get icons to work
+	
+Jeffrey:
+	- Finished Login Page
+	- Work on Logout function
+	- Struggles: Internet issues
+	
+Paul:
+	- Worked on Followers Page
+	- Finish Followers Page
+	- Getting Used To React
+	
+Thea:
+	- Finished Posts Page
+	- start PowerPoint presentation
+	- Struggles: Learning React
+	
+Rei:
+	- Finished Profile Page
+	- Code Pipeline and finish units tests
+	- No struggles
